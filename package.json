@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhinavdhasmana/github-action-example-node.git"
+    "url": "https://github.com/blundercon/jubilant-broccoli"
   },
   "keywords": [
     "node.js",
@@ -19,12 +19,12 @@
     "CI",
     "CD"
   ],
-  "author": "abhinav dhasmana (abhinav.dhasmana@live.com)",
+  "author": "Harikishen Hosamana (harikishen.hosamana@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhinavdhasmana/github-action-example-node/issues"
+    "url": "https://github.com/blundercon/jubilant-broccoli/issues"
   },
-  "homepage": "https://github.com/abhinavdhasmana/github-action-example-node#readme",
+  "homepage": "https://github.com/blundercon/jubilant-broccoli#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
